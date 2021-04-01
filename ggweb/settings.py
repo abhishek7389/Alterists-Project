@@ -25,7 +25,7 @@ SECRET_KEY = 'ul6ugpyr-grkww_05sqppn1qkll08yxr9im-yg-sx4@-4=3s+1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ggwebapp-gcp.appspot.com']
+ALLOWED_HOSTS = ['qwiklabs-gcp-01-bec617a02569.uc.r.appspot.com']
 
 
 # Application definition
